@@ -33,11 +33,14 @@ Functions and principle
 -   Lines 237-262: Update by refreshing interface a time per 0.05 sec
 
 Developing process
-All ideas come from general physics lectures, especially the topic of gas physics.
-Thus, this project aims to build a simulator to visualize the behavior of gas particles.
+All ideas come from general physics lectures, especially the topic of gass physics.
+Thus, this project aims to build a simulator to visualize the behavior of ga particles.
 One limitation is that the simulation cannot precisely describe real gas behavior due to limited physics background
 and the project deadline.
-LLM is used in this project, but mostly being used to debug when using Matplotlib when constructing interactive interface.
-However, when dealing with Lines 163-180, theres still some problem, so I let ChatGPT help me to finish this part.
-All the parts which LLM have been used is below.
+LLMs were used in this project, but mostly for debugging issues related to constructing interactive interfaces
+using Matplotlib.
+In addition, LLMs were sometimes used to learn new programming syntax(for me).
+However, when dealing with Lines 163–180, there were still some unresolved issues, so I asked ChatGPT to help
+complete this part.
+All sections where LLMs were used are listed below.
 https://chatgpt.com/g/g-p-69311dff84a88191be2624bba940c0d3-term-project/shared/c/694b4e95-c334-8322-bb13-5514788d4331?owner_user_id=user-P1TVWZnKek6SgTqdDbmUyUce
