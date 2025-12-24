@@ -30,10 +30,14 @@ Functions and principle
     First, detecting the modes of radius and mass, then choosing the method to distribute particle properties.Also, assigning particles its random position.Finally setting the boundaries and refresh the interface.
 -   Lines 163-180: Respawning particles when the conditions changed.
 -   Lines 183-197: Creating buttons and its func.
--   Lines 237-262: Update by refreshing interface a time per 0.05 sec.
+-   Lines 237-262: Update by refreshing interface a time per 0.05 sec
 
 Developing process
 All ideas come from general physics lectures, especially the topic of gas physics.
 Thus, this project aims to build a simulator to visualize the behavior of gas particles.
 One limitation is that the simulation cannot precisely describe real gas behavior due to limited physics background
 and the project deadline.
+LLM is used in this project, but mostly being used to debug when using Matplotlib when constructing interactive interface.
+However, when dealing with Lines 163-180, theres still some problem, so I let ChatGPT help me to finish this part.
+All the parts which LLM have been used is below.
+https://chatgpt.com/g/g-p-69311dff84a88191be2624bba940c0d3-term-project/shared/c/694b4e95-c334-8322-bb13-5514788d4331?owner_user_id=user-P1TVWZnKek6SgTqdDbmUyUce
