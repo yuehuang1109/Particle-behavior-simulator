@@ -261,8 +261,6 @@ def main():
     
     plt.show()
     
-    print("working")
-
-
 if __name__ == "__main__":
+
     main()
